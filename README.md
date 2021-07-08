@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jaroslav Kotrba.
+- 👋 Hi, My name is Jaroslav.
 - 👀 I’m interested in R and Python.
 - 🌱 I’m currently learning to produce and deploy machine learning and AI web applications.
 - 📫 How to reach me: https://jaroslavkotrba.com/
