@@ -1,5 +1,5 @@
 - 👋 Hi, My name is Jaroslav.
-- 👀 I’m interested in R and Python.
+- 👀 I’m interested in Python and R.
 - 🌱 I’m currently learning to produce and deploy machine learning and AI web applications.
 - 📫 How to reach me: https://jaroslavkotrba.com
 - <a href="https://www.linkedin.com/in/jaroslav-kotrba/"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="drawing" width="100"/>&nbsp;&nbsp;&nbsp;
