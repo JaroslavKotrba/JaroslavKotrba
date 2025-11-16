@@ -1,5 +1,5 @@
 - 👋 Hi, My name is Jaroslav.
 - 👀 I’m interested in Python, Data and LLM.
-- 🌱 I’m currently producing FastAPI and AI web applications.
+- 🌱 I develop modern data-driven web applications using FastAPI and AI technologies, combining my background in finance, analytics, and full-stack development.
 - 📫 How to reach me: https://jaroslavkotrba.com
 - <a href="https://www.linkedin.com/in/jaroslav-kotrba/"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="drawing" width="100"/>&nbsp;&nbsp;&nbsp;
